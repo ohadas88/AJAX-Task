@@ -1,4 +1,4 @@
-[
+const data = [
   {
     name: "Afghanistan",
     topLevelDomain: [".af"],
